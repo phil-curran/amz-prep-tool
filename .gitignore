@@ -22,4 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# personal data files
 question_data.csv
+data.json
+backup.data.json
+backup.question_data.csv

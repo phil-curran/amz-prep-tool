@@ -4,12 +4,9 @@
     "question": "Didn't have enough data to make the right decision.",
     "fullQuestion": "Tell me about a time when you didn't have enough data to make the right decision. What did you do? What path did you take? Did the decision turn out to be the correct one?",
     "principle": "Are Right, A Lot",
-    "topic": "TEST",
+    "topic": "",
     "table": {
       "situation": [
-        "one",
-        " two",
-        " three",
         ""
       ],
       "task": [
@@ -112,7 +109,7 @@
     "question": "Discovered your idea wasn't the best course of action.",
     "fullQuestion": "Tell me about a time when you discovered that your idea was not the best course of action. What was your idea? Why wasn't your idea the best course of action? How did you find out it was not the correct path? What was the best course of action? Who provided it? What did you learn from the experience?",
     "principle": "Are Right, A Lot",
-    "topic": "Redfin Agent Tools",
+    "topic": "",
     "table": {
       "situation": [
         ""
@@ -196,7 +193,7 @@
     "question": "Worked against tight deadlines without considering all options.",
     "fullQuestion": "Tell me about a time when you worked against tight deadlines and didn't have time to consider all options before making a decision. How much time did you have? What approach did you take? What did you learn from the situation?",
     "principle": "Bias for Action",
-    "topic": "Redfin New Agent Training",
+    "topic": "",
     "table": {
       "situation": [
         ""
@@ -217,7 +214,7 @@
     "question": "Made an important business decision without consulting your manager.",
     "fullQuestion": "Describe a situation where you made an important business decision without consulting your manager. What was the situation and how did it turn out? Would you have done anything differently?",
     "principle": "Bias for Action",
-    "topic": "UW & Bigley publishing content",
+    "topic": "",
     "table": {
       "situation": [
         ""
@@ -280,7 +277,7 @@
     "question": "Saw an issue impacting your team and took a proactive approach.",
     "fullQuestion": "Tell me about a time when you saw an issue that would impact your team and took a proactive approach to solve it. What was the issue? What did you do and what was the outcome? What did you learn from this situation?",
     "principle": "Bias for Action",
-    "topic": "UW Something as Interim",
+    "topic": "",
     "table": {
       "situation": [
         ""
@@ -343,7 +340,7 @@
     "question": "Removed a serious roadblock preventing team progress.",
     "fullQuestion": "Tell me about a time when you were able to remove a serious roadblock/barrier preventing your team from making progress. What was the barrier? How were you able to remove it? What was the outcome? Knowing what you know now, would you have done anything differently? (Manager)",
     "principle": "Bias for Action",
-    "topic": "UW: Develop tool for event tracking",
+    "topic": "",
     "table": {
       "situation": [
         ""
@@ -385,7 +382,7 @@
     "question": "Went above and beyond for a customer.",
     "fullQuestion": "Tell me about a time when you went above and beyond for a customer. Why did you do it? How did the customer respond? What was the outcome?",
     "principle": "Customer Obsession",
-    "topic": "UW: Umphress & Negotiations",
+    "topic": "",
     "table": {
       "situation": [
         ""
@@ -406,7 +403,7 @@
     "question": "Anticipated a customer need with a solution they didn't know they needed.",
     "fullQuestion": "Give me an example of when you were able to anticipate a customer need with a solution/product they didn't know they needed/wanted yet. How did you know they needed this? How did they respond?",
     "principle": "Customer Obsession",
-    "topic": "UW: Tracy & Project Management",
+    "topic": "",
     "table": {
       "situation": [
         ""
@@ -448,7 +445,7 @@
     "question": "Evaluated the customer experience of your product or service.",
     "fullQuestion": "Tell me about a time when you evaluated the customer experience of your product or service. What did you do? What was the result?",
     "principle": "Customer Obsession",
-    "topic": "UW: Student Polling re: UI Experience",
+    "topic": "",
     "table": {
       "situation": [
         ""
@@ -490,7 +487,7 @@
     "question": "Pushed back or said no to an unreasonable customer request.",
     "fullQuestion": "Sometimes customers make unreasonable requests. Tell me about a time when you've had to push back or say no to a customer request. What did you say or do in response to that request?",
     "principle": "Customer Obsession",
-    "topic": "UW: Bigley & publishing deadlines",
+    "topic": "",
     "table": {
       "situation": [
         ""
@@ -511,7 +508,7 @@
     "question": "Balanced the needs of the customer with the business.",
     "fullQuestion": "Tell me about a time when you had to balance the needs of the customer with the needs of the business. What did you do? What was the result?",
     "principle": "Customer Obsession",
-    "topic": "UW: Bigley & publishing deadlines",
+    "topic": "",
     "table": {
       "situation": [
         ""
@@ -574,7 +571,7 @@
     "question": "Delivered an important project under a tight deadline.",
     "fullQuestion": "Give me an example of a time when you were able to deliver an important project under a tight deadline. What sacrifices did you have to make to meet the deadline? How did they impact the final deliverable? What was the final outcome?",
     "principle": "Deliver Results",
-    "topic": "Redfin: New Agent Training",
+    "topic": "",
     "table": {
       "situation": [
         ""
@@ -616,7 +613,7 @@
     "question": "Met and considerably exceeded a goal.",
     "fullQuestion": "Tell me about a time when you not only met a goal but considerably exceeded expectations. How were you able to do it? What challenges did you have to overcome?",
     "principle": "Deliver Results",
-    "topic": "UW: Interim Director, or ???",
+    "topic": "",
     "table": {
       "situation": [
         ""
@@ -679,7 +676,7 @@
     "question": "Did not effectively manage a project, resulting in missed deadlines.",
     "fullQuestion": "Tell me about a time when you did not effectively manage your projects and something did not get completed on time. What was the impact? What approaches do you use to make sure you are focusing on the right deliverables when you have several competing priorities?",
     "principle": "Deliver Results",
-    "topic": "Redfin: Training rewrite, trainer interference, derail",
+    "topic": "",
     "table": {
       "situation": [
         ""

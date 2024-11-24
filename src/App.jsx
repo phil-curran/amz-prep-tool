@@ -20,7 +20,7 @@ import {
   Button, // Add Button
 } from "@chakra-ui/react";
 import { domToSvg } from "modern-screenshot";
-import data from "./data/data_backup2";
+import data from "./data/data";
 import principles from "./data/principles";
 
 const App = () => {
