@@ -18,7 +18,7 @@ import {
   Text,
   HStack,
 } from "@chakra-ui/react";
-import data from "./data/data";
+import data from "./data/data.json";
 import principles from "./data/principles";
 
 const App = () => {
