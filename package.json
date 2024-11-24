@@ -19,7 +19,6 @@
     "@emotion/styled": "^11.13.5",
     "animate.css": "^4.1.1",
     "framer-motion": "^11.11.17",
-    "modern-screenshot": "^4.5.4",
     "papaparse": "^5.4.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
