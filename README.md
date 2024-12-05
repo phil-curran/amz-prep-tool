@@ -32,7 +32,7 @@ npm install
 
 ### 3️⃣ Prepare Your Data
 
-1. **Make a Copy** of this [Google Sheet Template](#).
+1. **Make a Copy** of this [Google Sheet Template](https://docs.google.com/spreadsheets/d/10lPSNl9sjOwmBYfvgICTpQVIIt6yoI-CJ_ZjW9ExLTE/edit?usp=sharing).
 2. **Rename the copied file** to `question_data.csv`.
 3. **Download and save the file** into the `src/data` folder of your project directory.
 
@@ -94,7 +94,7 @@ A Python script processes the `.csv` file into a `.json` file for React to consu
 
 ### ❤️ Contributing
 
-We welcome contributions! If you'd like to add features or improve the project, feel free to submit a pull request. Be sure to:
+I welcome contributions! If you'd like to add features or improve the project, feel free to submit a pull request. Be sure to:
 
 1. **Fork the repository.**
 2. **Create a feature branch.**

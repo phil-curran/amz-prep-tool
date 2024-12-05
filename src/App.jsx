@@ -9,6 +9,7 @@ import {
   AccordionButton,
   AccordionPanel,
   AccordionIcon,
+  Flex,
   Table,
   Thead,
   Tbody,
@@ -113,48 +114,81 @@ const App = () => {
                 </AccordionButton>
 
                 <AccordionPanel pb={4}>
+                  {/* Full Question */}
                   <Text mb={4} color="black" bg="red" p={4} borderRadius={4}>
                     <Text as="span" fontWeight="bold">
                       Full Question:
                     </Text>{" "}
                     {item.fullQuestion}
                   </Text>
-                  <Text mb={4} color="black" bg="blue" p={4} borderRadius={4}>
-                    <Text as="span" fontWeight="bold">
-                      Topic:
-                    </Text>{" "}
-                    {item.topic}
-                  </Text>
 
-                  <Table variant="simple" size="md" colorScheme="gray">
+                  {/* Row containing Topic and Principle */}
+                  <Flex mb={4}>
+                    {/* Topic */}
+                    <Text
+                      flex="1"
+                      color="black"
+                      bg="blue"
+                      p={4}
+                      borderRadius={4}
+                      mr={2}
+                    >
+                      <Text as="span" fontWeight="bold">
+                        Topic:
+                      </Text>{" "}
+                      {item.topic}
+                    </Text>
+
+                    {/* Principle */}
+                    <Text
+                      flex="1"
+                      color="black"
+                      bg="green"
+                      p={4}
+                      borderRadius={4}
+                    >
+                      <Text as="span" fontWeight="bold">
+                        Principle:
+                      </Text>{" "}
+                      {item.principle}
+                    </Text>
+                  </Flex>
+                  <Table variant="simple" size="sm" colorScheme="gray">
                     <Thead>
                       <Tr bg="black" color="white">
                         <Th width="25%" bg="gray" color="white">
                           Situation
                         </Th>
+
                         <Th width="25%" bg="gray" color="white">
                           Task
                         </Th>
+
                         <Th width="25%" bg="gray" color="white">
                           Action
                         </Th>
+
                         <Th width="25%" bg="gray" color="white">
                           Result
                         </Th>
                       </Tr>
                     </Thead>
+
                     <Tbody>
                       {item.table.situation.map((situationItem, index) => (
                         <Tr key={index}>
                           <Td border="1px solid" borderColor="gray">
                             {situationItem}
                           </Td>
+
                           <Td border="1px solid" borderColor="gray">
                             {item.table.task[index]}
                           </Td>
+
                           <Td border="1px solid" borderColor="gray">
                             {item.table.action[index]}
                           </Td>
+
                           <Td border="1px solid" borderColor="gray">
                             {item.table.result[index]}
                           </Td>
